@@ -133,3 +133,9 @@ az vm create \
   --ssh-key-values ~/.ssh/id_rsa.pub \
   --custom-data startup-script.sh
 ```
+
+# References
+[https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-macos]
+[https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-cli-complete]
+[https://www.digitalocean.com/community/tutorials/how-to-install-jitsi-meet-on-ubuntu-22-04]
+[https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart/]
